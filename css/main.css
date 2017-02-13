@@ -1,0 +1,54 @@
+/* Version 0.1
+ * Author: Ribhu Lahiri;
+ * pwRL01
+ */
+.square{
+	font-family: 'Oswald', sans-serif;
+	font-size: 78px;
+}
+
+#square-1{
+	height: 70%;
+	width: 70%;
+	text-align: right;
+	vertical-align: bottom;
+	line-height: 700px;
+	padding-right: 10px;
+	background-color: red; 
+	float: left; 
+}
+
+#square-2{
+	position: relative;
+	height: 70%;
+	width: 30%;
+	margin-left: 70.8%;
+	text-align: left;
+	vertical-align: bottom;
+	line-height: 700px;
+	padding-left: 10px;
+	background-color: blue;  
+}
+
+#square-3{
+	height: 30%;
+	width: 70%;
+	text-align: right;
+	vertical-align: bottom;
+	line-height: 200px;
+	padding-right: 10px;
+	background-color: green; 
+	float: left; 
+}
+
+#square-4{
+	position: relative;
+	height: 30%;
+	width: 30%;
+	margin-left: 70.8%;
+	text-align: left;
+	vertical-align: bottom;
+	line-height: 200px;
+	padding-left: 10px;
+	background-color: yellow;  
+}
